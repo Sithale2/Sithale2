@@ -1,4 +1,16 @@
-### Hi there 👋
+# Elric Krebs
+
+## Major
+Computer Science (BCS) with focus on Digitial Design. At Eastern Washington University.
+
+##Skills
+* web Design
+* Adobe Suite
+* Java Code
+* Object Oriented Programming
+
+##Super Power
+Shadow Magic
 
 <!--
 **Sithale2/Sithale2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,13 +3,13 @@
 ## Major
 Computer Science (BCS) with focus on Digitial Design. At Eastern Washington University.
 
-##Skills
+Skills
 * web Design
 * Adobe Suite
 * Java Code
 * Object Oriented Programming
 
-##Super Power
+Super Power
 Shadow Magic
 
 <!--

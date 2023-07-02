@@ -4,10 +4,13 @@
 Computer Science (BCS) with focus on Digitial Design. At Eastern Washington University.
 
 Skills
-* web Design
+* Web Design
 * Adobe Suite
 * Java Code
 * Object Oriented Programming
+* Graphic Design
+* Game Design
+* Motion Animation
 
 Super Power
 Shadow Magic
